@@ -58,3 +58,5 @@ game.start()
 MIT © [fayrix.dev](https://fayrix.dev)
 
 # PR Merge: 2025-10-17 - enhancement/merge-6520
+
+# PR Merge: 2025-10-17 - enhancement/merge-5759
